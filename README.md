@@ -16,4 +16,6 @@ Este proyecto es una aplicación web desarrollada en Vue.js que simula el lanzam
 - **Música de Fondo:** Opcionalmente, se puede añadir música de fondo a la aplicación para una experiencia más inmersiva.
 - **Fondo Personalizado:** La página cuenta con un fondo personalizado que puede ser una imagen.
 
-## Estructura general del proyecto
+## Enlace de la Aplicación
+
+Puedes ver la aplicación desplegada en [GitHub Pages]([https://tu-usuario.github.io/DadosD-D/](https://lflorez13.github.io/DadosD-D/)).
