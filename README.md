@@ -18,4 +18,4 @@ Este proyecto es una aplicación web desarrollada en Vue.js que simula el lanzam
 
 ## Enlace de la Aplicación
 
-La aplicación de puede ver en https://lflorez13.github.io/DadosD-D/
+La aplicación se puede ver en https://lflorez13.github.io/DadosD-D/
