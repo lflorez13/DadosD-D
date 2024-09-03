@@ -90,7 +90,7 @@ export default {
     },
     toggleSidebar() {
       // Alterna la visibilidad de la barra lateral.
-      this.sidebarOpen = !this.sidebarOpen; // Alterna la visibilidad de la barra lateral
+      this.sidebarOpen = !this.sidebarOpen; 
     },
     formatHistoryEntry(entry) {
       // Formatea una entrada del historial en una cadena de texto separada por comas.
@@ -113,9 +113,9 @@ export default {
 }
 
 .title-icon {
-  width: 120px; /* Tamaño de la imagen (ajusta según necesites) */
+  width: 120px; /* Tamaño de la imagen del icono */
   height: 100px;
-  margin-right: 10px; /* Espacio entre la imagen y el título */
+  margin-right: 10px;
 }
 
 h1 {
@@ -127,7 +127,7 @@ h1 {
   padding: 0;
 }
 
-button {
+button { /* Boton ver historial de lanzamienots*/ 
   font-family: 'Georgia', sans-serif;
   font-weight: bolder;
   font-size: 12px;
@@ -139,8 +139,8 @@ button {
 button:hover {
   background-color: rgb(2, 2, 2); /* Cambia el color de fondo al pasar el mouse */
   color: #e9e9e9;
-  border-color: #000000; /* Cambia el color del borde al pasar el mouse */
-  transform: scale(1.05); /* Efecto de agrandar */
+  border-color: #000000; 
+  transform: scale(1.05); 
 }
 
 .Lanzar {
@@ -158,13 +158,13 @@ button:hover {
 }
 
 .Lanzar:hover {
-  background-color: rgba(233, 0, 0, 0.801); /* Cambia el color de fondo al pasar el mouse */
+  background-color: rgba(233, 0, 0, 0.801); 
   color: #e9e9e9;
-  border-color: #000000; /* Cambia el color del borde al pasar el mouse */
-  transform: scale(1.05); /* Efecto de agrandar */
+  border-color: #000000; 
+  transform: scale(1.05); 
 }
 
-.toggle-sidebar-button {
+.toggle-sidebar-button {  /* Boton ocultar historial de lanzamienots*/ 
   margin: 20px;
   padding: 10px 20px;
   background-color: #0f4f3b;

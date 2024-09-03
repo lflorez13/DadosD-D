@@ -11,7 +11,7 @@
   export default {
     data() {
       return {
-        musicaSrc: require('@/assets/audioD_D.mp3'), // Reemplaza 'tu-musica.mp3' con el nombre de tu archivo
+        musicaSrc: require('@/assets/audioD_D.mp3'), 
         isPlaying: false
       };
     },
