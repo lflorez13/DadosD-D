@@ -14,7 +14,6 @@ Este proyecto es una aplicación web desarrollada en Vue.js que simula el lanzam
 - **Historial de Lanzamientos:** Guarda y muestra el historial de resultados de los lanzamientos en una barra lateral desplegable.
 - **Limpiar Historial:** Limpia el historial de resultados
 - **Música de Fondo:** Opcionalmente, se puede añadir música de fondo a la aplicación para una experiencia más inmersiva.
-- **Fondo Personalizado:** La página cuenta con un fondo personalizado que puede ser una imagen.
 
 ## Enlace de la Aplicación
 
